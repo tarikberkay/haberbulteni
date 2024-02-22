@@ -71,5 +71,23 @@ Yazarları getirir.
 
 
 
+#### Öğeyi getir
+
+```http
+  http://127.0.0.1:8000/api/docs/
+```
+
+Swagger ile API'nin belgelenmesi sağlanmıştır.
+
+
+
+#### Öğeyi getir
+
+```http
+  http://127.0.0.1:8000/api/schema/
+```
+
+API belgesi indirilebilir.
+
 
   
